@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/rheumatism---secondary.py
+inputModule3:
+  class: File
+  path: python/palindromic-rheumatism-shoulder---secondary.py
+inputModule4:
+  class: File
+  path: python/palindromic-rheumatism-elbow---secondary.py
+inputModule5:
+  class: File
+  path: python/palindromic-rheumatism-wrist---secondary.py
+inputModule6:
+  class: File
+  path: python/palindromic-rheumatism---secondary.py
+inputModule7:
+  class: File
+  path: python/palindromic-rheumatism-ankle---secondary.py
+inputModule8:
+  class: File
+  path: python/palindromic-rheumatism-unspecified---secondary.py
+inputModule9:
+  class: File
+  path: python/right-palindromic-rheumatism---secondary.py
+inputModule10:
+  class: File
+  path: python/multiple-palindromic-rheumatism---secondary.py
+inputModule11:
+  class: File
+  path: python/other-palindromic-rheumatism---secondary.py
+inputModule12:
+  class: File
+  path: python/palindromic-rheumatism-forearm---secondary.py
+inputModule13:
+  class: File
+  path: python/lower-palindromic-rheumatism---secondary.py
+inputModule14:
+  class: File
+  path: python/palindromic-rheumatism-region---secondary.py
+inputModule15:
+  class: File
+  path: python/palindromic-rheumatism-thigh---secondary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
